@@ -1,0 +1,2 @@
+# proyecLab
+Control de sala
